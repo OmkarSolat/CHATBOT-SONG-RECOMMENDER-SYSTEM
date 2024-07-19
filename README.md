@@ -1,7 +1,6 @@
 # CHATBOT
 
 <h1>Connect with me</h1>
-If you have any queries regarding any of the topic in this project feel free to talk to me using below links:<br>
 
 facebook : https://m.facebook.com/proogramminghub<br>
 instagram : @omkar.solat<br>
